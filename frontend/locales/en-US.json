@@ -1,0 +1,83 @@
+{
+  "welcome": "Welcome",
+  "home": "Home",
+  "toast": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info"
+  },
+  "login": {
+    "title": "Connexion",
+    "email": "email",
+    "password": "password",
+    "forgot": "forgot password",
+    "register": "register",
+    "submit": "submit",
+    "signup": "Sign up",
+    "signOut": "Sign out",
+    "invalid": {
+      "name": "The name is required",
+      "email": "The email is required",
+      "password": "The password is required"
+    }
+  },
+  "register": {
+    "title": "Register",
+    "name": "name",
+    "email": "email",
+    "password": "password",
+    "submit": "submit",
+    "invalid": {
+      "name": "The name is required",
+      "email": "The email is required",
+      "password": "The password is required",
+      "firstName": "The first name is required",
+      "lastName": "The last name is required",
+      "allFieldsRequired": "All fields are required"
+    },
+    "firstName": "Firstname"
+  },
+  "subscription": {
+    "add": "Add Subscription",
+    "toAdd": "Add",
+    "discard": "Discard",
+    "addASubscription": "For use the app, you need to add a subscription Xtream",
+    "username": "Username",
+    "password": "Password",
+    "providerUrl": "Provider URL",
+    "URLplaceholder": "http://exemple.com:8080"
+  },
+  "api": {
+    "CodeError": {
+      "401": "Unauthorized",
+      "403": "Forbidden",
+      "404": "Not Found",
+      "500": "Internal Server Error"
+    },
+    "error": {
+      "wrongPassword": "Wrong password",
+      "userNotFound": "User not found",
+      "userExists": "User already exists",
+      "emailAndPasswordRequired": "Email and password are required",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "emailNotValid": "Email is not valid",
+      "passwordNotValid": "Password is not valid"
+    }
+  },
+  "page": {
+    "protected": {
+      "title": "Protected Page",
+      "content": "I'm a secret! My protection works via the named `nuxt-auth` module middleware."
+    },
+    "index": {
+      "twitter": "Follow on Twitter",
+      "building": "Building Good",
+      "software": "Software.",
+      "title2": "Space Management Software",
+      "content": "Use this paragraph to share information about your company or products. Make it engaging and interesting, and showcase your brand's personality. Thanks for visiting our website!",
+      "readMore": "Read more"
+    }
+  }
+}
