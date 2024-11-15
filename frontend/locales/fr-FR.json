@@ -1,0 +1,83 @@
+{
+  "welcome": "Bienvenue",
+  "home": "Accueil",
+  "toast": {
+    "success": "Succès",
+    "error": "Erreur",
+    "warning": "Attention",
+    "info": "Information"
+  },
+  "login": {
+    "title": "Connexion",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "forgot": "Mot de passe oublié ?",
+    "register": "Inscription",
+    "submit": "Connexion",
+    "signup": "S'inscrire",
+    "signOut": "Déconnexion",
+    "invalid": {
+      "name": "Le nom est requis",
+      "email": "L'adresse e-mail est requise",
+      "password": "Le mot de passe est requis"
+    }
+  },
+  "register": {
+    "title": "Inscription",
+    "name": "Nom",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "submit": "S'inscrire",
+    "invalid": {
+      "name": "Le nom est requis",
+      "email": "L'adresse e-mail est requise",
+      "password": "Le mot de passe est requis",
+      "firstName": "Le prénom est requis",
+      "lastName": "Le nom de famille est requis",
+      "allFieldsRequired": "Tous les champs sont requis"
+    },
+    "firstName": "Prénom"
+  },
+  "subscription": {
+    "add": "Ajouter un abonnement",
+    "toAdd": "Ajouter",
+    "discard": "Annuler",
+    "addASubscription": "Pour utiliser l'application, vous devez ajouter un abonnement Xtream",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "providerUrl": "URL du fournisseur",
+    "URLplaceholder": "http://exemple.com:8080"
+  },
+  "api": {
+    "CodeError": {
+      "401": "Non autorisé",
+      "403": "Interdit",
+      "404": "Non trouvé",
+      "500": "Erreur interne du serveur"
+    },
+    "error": {
+      "wrongPassword": "Le mot de passe est incorrect",
+      "userNotFound": "L'utilisateur n'a pas été trouvé",
+      "userAlreadyExists": "L'utilisateur existe déjà",
+      "emailAndPasswordRequired": "L'adresse e-mail et le mot de passe sont requis",
+      "emailRequired": "L'adresse e-mail est requise",
+      "passwordRequired": "Le mot de passe est requis",
+      "emailNotValid": "L'adresse e-mail n'est pas valide",
+      "passwordNotValid": "Le mot de passe n'est pas valide"
+    }
+  },
+  "page": {
+    "protected": {
+      "title": "Page protégée",
+      "content": "Ceci est une page protégée. Vous devez être connecté pour y accéder."
+    },
+    "index": {
+      "twitter": "Suivez-nous sur Twitter",
+      "building": "Construire de bons",
+      "software": "Logiciel",
+      "title2": "Espace de gestion de projet",
+      "content": "Utilisez ce paragraphe pour partager des informations sur votre entreprise ou vos produits. Rendez-le attrayant et intéressant, et mettez en valeur la personnalité de votre marque. Merci d'avoir visité notre site web !",
+      "readMore": "Lire la suite"
+    }
+  }
+}
